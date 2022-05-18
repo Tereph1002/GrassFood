@@ -1,0 +1,6 @@
+name: GrassFood
+description: Eat grass block
+version: '1.0.0'
+main: grassfood.tereph1002.grassfood.GrassFood
+api-version: 1.18
+author: Tereph1002
